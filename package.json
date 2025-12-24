@@ -1,0 +1,36 @@
+{
+  "name": "@falcondevking/greeting-package",
+  "version": "1.0.0",
+  "description": "This package is for greeting people during the day",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falconDevKing/greeting-package"
+  },
+  "author": "falconDevKing",
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/index.cjs",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    "import": {
+      "default": "./lib/index.esm.js",
+      "types": "./lib/types/index.d.ts"
+    },
+    "require": {
+      "default": "./lib/index.cjs",
+      "types": "./lib/types/index.d.ts"
+    }
+  },
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "rollup": "^4.17.2",
+    "rollup-plugin-delete": "^2.0.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.4.5"
+  }
+}
