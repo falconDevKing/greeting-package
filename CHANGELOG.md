@@ -12,6 +12,12 @@
 
 - 91d5689: Created monach greeting
 
+## 1.2.1
+
+### Patch Changes
+
+- 50a1688: added night extra
+
 ## 1.2.0
 
 ### Minor Changes
