@@ -1,5 +1,12 @@
 # @falcondevking/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- 91d5689: Created monach greeting
+- 97fd991: added grumpy
+
 ## 2.0.0-beta.1
 
 ### Major Changes
