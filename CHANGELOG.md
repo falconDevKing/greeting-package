@@ -1,5 +1,11 @@
 # @falcondevking/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 91d5689: Created monach greeting
+
 ## 1.2.0
 
 ### Minor Changes
