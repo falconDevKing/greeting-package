@@ -4,5 +4,7 @@
   "initialVersions": {
     "@falcondevking/greeting-package": "1.2.0"
   },
-  "changesets": []
+  "changesets": [
+    "moody-carpets-build"
+  ]
 }
