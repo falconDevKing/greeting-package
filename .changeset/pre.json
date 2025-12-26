@@ -5,6 +5,7 @@
     "@falcondevking/greeting-package": "1.2.0"
   },
   "changesets": [
-    "moody-carpets-build"
+    "moody-carpets-build",
+    "rare-lines-report"
   ]
 }
